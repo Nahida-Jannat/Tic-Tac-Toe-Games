@@ -1,16 +1,22 @@
-# tic_tac_toe
+# Tic Tac Toe Game
 
-UI for Tic-Tac-Toe games
+A beautiful Flutter implementation of the classic Tic Tac Toe game with dark theme and smooth animations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Dark mode UI with Material 3 design
+- Score tracking
+- Win/draw detection
+- Animated game cells
+- Responsive design
+- Game state dialogs
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Add screenshots here]
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+
+```bash
+flutter pub get
+flutter run
